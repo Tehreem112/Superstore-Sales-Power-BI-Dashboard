@@ -23,18 +23,18 @@ The dashboard helps answer questions such as:
 
 The dashboard includes four main KPIs:
 
-- Quantity: 38K
-- Profit: 286.40K
-- Sales: 2.30M
-- Customers: 793
+- **Quantity:** 38K
+- **Profit:** 286.40K
+- **Sales:** 2.30M
+- **Customers:** 793
 
 ### Main Visualizations
 
-- Sales by Top 5 Sub-categories
+- **Sales by Top 5 Sub-categories**
 
 Shows the top 5 product sub-categories based on sales and helps identify which products contribute more to the business.
 
-- Sales by Segment
+- **Sales by Segment**
 
 Shows sales across different customer segments:
 
@@ -42,19 +42,19 @@ Shows sales across different customer segments:
 - Corporate
 - Home Office
 
-- Sales by Top 5 States
+- **Sales by Top 5 States**
 
 Highlights the top 5 states based on sales and shows where the business is generating more revenue.
 
-- Sales by Region
+- **Sales by Region**
 
 Shows the contribution of different regions. The West region has the highest share of sales in this dashboard.
 
-- Sales by Shipping Type
+- **Sales by Shipping Type**
 
 Shows customer preferences for different shipping methods. Standard Class has the largest share.
 
-- Top 5 States: Sales Ranking
+- **Top 5 States: Sales Ranking**
 
 A small ranking table showing the states with the highest sales.
 
