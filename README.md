@@ -87,7 +87,3 @@ The dashboard provides a quick overview of business performance and makes it eas
 Kaggel
 
 
-
-- `Superstore Sales Dashboard.pbix` – Power BI dashboard
-- `dashboard.png` – Dashboard screenshot
-- `README.md` – Project documentation
