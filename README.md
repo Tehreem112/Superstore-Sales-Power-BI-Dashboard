@@ -17,8 +17,7 @@ The dashboard helps answer questions such as:
 
 ## Dashboard
 
-![Superstore Sales Dashboard](<img width="4100" height="2350" alt="Sales Overview-1" src="https://github.com/user-attachments/assets/b566e588-c652-49e6-951d-3ec6655ee3e9" />
-)
+<img src="https://github.com/user-attachments/assets/b566e588-c652-49e6-951d-3ec6655ee3e9" alt="Superstore Sales Dashboard" />
 
 ##  Dashboard Overview
 
@@ -82,6 +81,10 @@ Through this project, I practiced:
 ## Key Takeaway
 
 The dashboard provides a quick overview of business performance and makes it easier to identify important sales patterns across products, customer segments, states, regions, and shipping types.
+
+## Data Source 
+
+Kaggel
 
 
 
